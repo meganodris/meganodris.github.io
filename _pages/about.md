@@ -12,9 +12,9 @@ Third year PhD student in the Pathogen Dynamics Group at the University of Cambr
 
 Education
 ------
-•	PhD in Infectious Disease Epidemiology, University of Cambridge 2020-present
-•	MSc Epidemiology, London School of Hygiene and Tropical Medicine, 2015-2016
-•	BSc Environmental Science, University College Cork, 2011-2015
++ PhD in Infectious Disease Epidemiology, University of Cambridge 2020-present
++ MSc Epidemiology, London School of Hygiene and Tropical Medicine, 2015-2016
++ BSc Environmental Science, University College Cork, 2011-2015
 
 
 
