@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Third year PhD student in the Pathogen Dynamics Group at the University of Cambridge. My research focuses on the development and application of mathematical models to aid our understanding of pathogen transmission and immune dynamics.
+Third year PhD student in the Pathogen Dynamics Group at the University of Cambridge. My research focuses on the development and application of mathematical models to better understand of pathogen transmission and immune dynamics.
 
 Education
 ------
-+ PhD in Infectious Disease Epidemiology, University of Cambridge 2020-present
++ PhD Infectious Disease Epidemiology, University of Cambridge, 2020-present
 + MSc Epidemiology, London School of Hygiene and Tropical Medicine, 2015-2016
 + BSc Environmental Science, University College Cork, 2011-2015
 
