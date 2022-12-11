@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Third year PhD student in the Pathogen Dynamics Group at the University of Cambridge. My research focuses on the development and application of mathematical models to better understand pathogen transmission and immune dynamics.
+Third year PhD student in the [Pathogen Dynamics Group](https://www.pdg.gen.cam.ac.uk/) at the University of Cambridge. My research focuses on the development and application of mathematical models to better understand pathogen transmission and immune dynamics.
 
 Education
 ------
