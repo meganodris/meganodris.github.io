@@ -12,9 +12,9 @@ A full list of my publications can be found on [Google Scholar](https://scholar.
 **Megan O’Driscoll**, Gabriel Ribeiro Dos Santos, Lin Wang, Derek A. T. Cummings, Andrew S. Azman, Juliette Paireau, Arnaud Fontanet, Simon Cauchemez & Henrik Salje  
 *Nature*, 2020
 
-[Maternally-derived antibody titer dynamics and risk of hospitalised infant dengue disease](https://www.medrxiv.org/content/10.1101/2022.11.18.22282500v1)  
-**Megan O’Driscoll**, Darunee Buddhari, Angkana Huang, Adam Waikman, Surachai Kaewhirun, Sopon Iamsirithaworn, Direk Khampaen, Aaron Farmer, Stefan Fernandez, Isabel Rodriguez-Barraquer, Anon Srikiatkhachorn, Stephen Thomas, Timothy Endy, Alan L. Rothman, Kathryn Anderson, Derek A.T. Cummings, Henrik Salje  
-*medRxiv*, 2022
+[Maternally-derived antibody titer dynamics and risk of hospitalised infant dengue disease](https://doi.org/10.1073/pnas.2308221120)  
+**Megan O’Driscoll**, Darunee Buddhari, Angkana Huang, Adam Waickman, Surachai Kaewhirun, Sopon Iamsirithaworn, Direk Khampaen, Aaron Farmer, Stefan Fernandez, Isabel Rodriguez-Barraquer, Anon Srikiatkhachorn, Stephen Thomas, Timothy Endy, Alan L. Rothman, Kathryn Anderson, Derek A.T. Cummings, Henrik Salje  
+*PNAS*, 2023
 
 [A Comparative Analysis of Statistical Methods to Estimate the Reproduction Number in Emerging Epidemics, With Implications for the Current Coronavirus Disease 2019 (COVID-19) Pandemic](https://academic.oup.com/cid/article/73/1/e215/5932264)  
   **Megan O’Driscoll** & Carole Harry, Christl A. Donnelly, Anne Cori, Ilaria Dorigatti  
