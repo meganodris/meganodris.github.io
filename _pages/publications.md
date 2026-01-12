@@ -7,6 +7,9 @@ author_profile: true
 
 A full list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=jO9mCIMAAAAJ).  
       
+[Epidemiological and antigenic inferences from serological cross-reactivity among arboviruses](https://doi.org/10.1126/scitranslmed.ads8680)  
+**Megan O’Driscoll**, Nathanaël Hozé, Noémie Lefrancq, Gabriel Ribeiro dos Santos, Damien Hoinard, Mohammed Ziaur Rahman, Kishor Kumar Paul, Abu Mohd Naser Titu, Mohammad Shafiul Alam, Mohammad Enayet Hossain, Jessica Vanhomwegen, Simon Cauchemez, Emily S Gurley, Henrik Salje  
+*Science Translational Medicine*, 2025
 
 [Age-specific mortality and immunity patterns of SARS-CoV-2](https://www.nature.com/articles/s41586-020-2918-0)  
 **Megan O’Driscoll**, Gabriel Ribeiro Dos Santos, Lin Wang, Derek A. T. Cummings, Andrew S. Azman, Juliette Paireau, Arnaud Fontanet, Simon Cauchemez & Henrik Salje  
